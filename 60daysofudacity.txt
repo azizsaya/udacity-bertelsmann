@@ -1,0 +1,37 @@
+Day 1 - 04 Jan 2020
+Completed:
+
+Welcome to the scholarship challenge course
+Intro to Research methods
+PS 1a: Intro to Research methods
+PS 1b: Additional practice (optional)
+Visualizing data
+PS 2a: Visualizing data
+PS 2b: Additional practice (optional)
+Google spreadsheet tutorial
+
+
+Central Tendency
+PS 3a: Central Tendency
+PS 3b: Additional practice (optional)
+Variability
+PS 4: Variability
+Standardizing
+PS 5a: Standardizing
+PS 5b: Additional practice (optional)
+Normal distribution
+PS 6: Normal distribution
+Sampling distributions
+PS 7: Sampling distributions
+Why Python programming
+Data types and operators
+Control flow
+Functions
+Scripting
+Basic SQL
+SQL Joins
+SQL Aggregations
+SQL Subqueries and Temporary tables
+SQL Data cleaning
+Challenge course wrap-up
+
