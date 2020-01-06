@@ -15,9 +15,12 @@ Day 2 - 05 Jan 2020
 Completed:
 Central Tendency
 
-
+Day 3 - 06 Jan 2020
+Completed:
 PS 3a: Central Tendency
 PS 3b: Additional practice (optional)
+
+
 Variability
 PS 4: Variability
 Standardizing
