@@ -28,7 +28,11 @@ Day 5 - 08 Jan 2020
 Completed:
 PS 4: Variability
 
+
+Day 6 - 09 Jan 2020
+Completed:
 Standardizing
+
 PS 5a: Standardizing
 PS 5b: Additional practice (optional)
 Normal distribution
