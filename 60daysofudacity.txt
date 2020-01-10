@@ -33,8 +33,12 @@ Day 6 - 09 Jan 2020
 Completed:
 Standardizing
 
+Day 6 - 09 Jan 2020
+Completed:
 PS 5a: Standardizing
 PS 5b: Additional practice (optional)
+
+
 Normal distribution
 PS 6: Normal distribution
 Sampling distributions
