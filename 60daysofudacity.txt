@@ -39,7 +39,11 @@ PS 5a: Standardizing
 PS 5b: Additional practice (optional)
 
 
+Day 8 - 11 Jan 2020
+Completed:
 Normal distribution
+
+
 PS 6: Normal distribution
 Sampling distributions
 PS 7: Sampling distributions
