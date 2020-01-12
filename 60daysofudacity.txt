@@ -43,9 +43,12 @@ Day 8 - 11 Jan 2020
 Completed:
 Normal distribution
 
-
+Day 9 - 12 Jan 2020
+Completed:
 PS 6: Normal distribution
 Sampling distributions
+
+
 PS 7: Sampling distributions
 Why Python programming
 Data types and operators
