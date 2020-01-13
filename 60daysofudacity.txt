@@ -48,8 +48,11 @@ Completed:
 PS 6: Normal distribution
 Sampling distributions
 
-
+Day 10 - 13 Jan 2020
+Completed:
 PS 7: Sampling distributions
+
+
 Why Python programming
 Data types and operators
 Control flow
