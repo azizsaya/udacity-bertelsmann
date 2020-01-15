@@ -58,7 +58,7 @@ Why Python programming
 Data types and operators
 
 Day 12 - 15 Jan 2020
-Inprgress :
+In progress :
 Control flow - (completed 'for loops')
 
 
