@@ -57,9 +57,9 @@ Completed:
 Why Python programming
 Data types and operators
 
-Day 11 - 14 Jan 2020
-Inprgress (completed until for loops):
-Control flow
+Day 12 - 15 Jan 2020
+Inprgress :
+Control flow - (completed 'for loops')
 
 
 Functions
