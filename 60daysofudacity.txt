@@ -52,10 +52,16 @@ Day 10 - 13 Jan 2020
 Completed:
 PS 7: Sampling distributions
 
-
+Day 11 - 14 Jan 2020
+Completed:
 Why Python programming
 Data types and operators
+
+Day 11 - 14 Jan 2020
+Inprgress (completed until for loops):
 Control flow
+
+
 Functions
 Scripting
 Basic SQL
