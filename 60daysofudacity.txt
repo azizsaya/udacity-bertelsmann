@@ -61,6 +61,10 @@ Day 12 - 15 Jan 2020
 In progress :
 Control flow - (completed 'for loops')
 
+Day 13 - 16 Jan 2020
+Completed :
+Control flow
+
 
 Functions
 Scripting
