@@ -65,8 +65,15 @@ Day 13 - 16 Jan 2020
 Completed :
 Control flow
 
+Day 14 - 17 Jan 2020
+Revised:
+Python Data structures and Control flow
 
+Day 15 - 18 Jan 2020
+In progress :
 Functions
+
+
 Scripting
 Basic SQL
 SQL Joins
